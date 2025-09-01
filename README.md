@@ -7,6 +7,8 @@ This project aims to develop an integrated facial verification system
 for securing access to a robot-car (demonstration vehicle). The system
 combines artificial intelligence with hardware components to enable
 real-time user authentication.
+![25b59ade2d1e9338f9b73605dd5f4f89c9c67448](https://github.com/user-attachments/assets/b6a2543c-ed51-4753-a279-46562a862274)
+![b5c577b5f6ee03db4fa6b85f923f6a5fedc8470c](https://github.com/user-attachments/assets/bbe85ec6-300c-42e2-8438-8a9d088fddd3)
 
 ## Requirements
 
