@@ -8,11 +8,14 @@ for securing access to a robot-car (demonstration vehicle). The system
 combines artificial intelligence with hardware components to enable
 real-time user authentication.
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/d5c87de3-96bd-4bdd-ade4-d655906aa348" alt="img3" width="400"/>
+</p>
+
+<p align="center">
   <img src="https://github.com/user-attachments/assets/b6a2543c-ed51-4753-a279-46562a862274" alt="img1" width="300"/>
   <img src="https://github.com/user-attachments/assets/bbe85ec6-300c-42e2-8438-8a9d088fddd3" alt="img2" width="300"/>
- 
 </p>
- <img src="https://github.com/user-attachments/assets/d5c87de3-96bd-4bdd-ade4-d655906aa348" alt="img3" width="300"/>
+
 
 
 ## Requirements
